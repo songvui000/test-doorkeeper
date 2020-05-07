@@ -24,7 +24,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 # OAuth 2 provider functionality
-gem 'doorkeeper', '~> 5.2.3'
+gem 'doorkeeper', '~> 5.2.5'
 
 gem 'devise', '~> 4.7.1'
 
